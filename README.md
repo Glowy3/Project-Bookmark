@@ -10,6 +10,9 @@ Creation of Own Bookmark Startup Page.
 To-Do List~~
 =
 - Create Layout
+  ~ Should it be compatible with Phones too!?
+  ~ Only Desktop managing?
 - Create HTML File
 - Create JavaScript
+  ~ JavaScript// CSS3??
 ~~~~~~~~~~~~~~~~~~~
