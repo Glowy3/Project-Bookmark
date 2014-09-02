@@ -7,8 +7,8 @@ Creation of Own Bookmark Startup Page.
 - Layout suggestions Welcome.
 - Want to take Part? Message me.
 
-To-Do List~~
-=
+#To-Do List~~
+
 - Create Layout
 
   ~ Should it be compatible with Phones too!?
